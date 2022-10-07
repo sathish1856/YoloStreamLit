@@ -143,12 +143,11 @@ if __name__ == '__main__':
     if is_valid:
         print('valid')
         if st.button('Start Detection'):
-
+            ingredidents = []
             detect(opt)
             if source_index == 0:
                 with st.spinner(text='Preparing Images'):
                     for img in os.listdir(get_detection_folder()):
-                        ingredidents = []
                         if img == 'labels':
                             for txt in os.listdir(str(Path(f'{get_detection_folder()}') / img)):
                                 file1 = open(str(Path(f'{get_detection_folder()}') / img / txt), 'r')
@@ -165,10 +164,19 @@ if __name__ == '__main__':
             else:
                 with st.spinner(text='Preparing Video'):
                     for vid in os.listdir(get_detection_folder()):
-                        st.video(str(Path(f'{get_detection_folder()}') / vid))
-
+                        if vid == 'labels':
+                            for txt in os.listdir(str(Path(f'{get_detection_folder()}') / vid)):
+                                file1 = open(str(Path(f'{get_detection_folder()}') / vid / txt), 'r')
+                                Lines = file1.readlines()
+                                for line in Lines:
+                                    x = line.split()
+                                    ingred = " ".join(x[0:len(x)-5])
+                                    ingredidents.append(ingred)
+                        print('Ingredients ', set(ingredidents))                       
+                        if not os.path.isdir(str(Path(f'{get_detection_folder()}') / vid)):
+                            st.video(str(Path(f'{get_detection_folder()}') / vid))
                     st.balloons()
             if len(ingredidents) > 0 :
                 st.subheader('Ingredients Predicted')
-                for i in ingredidents:
+                for i in set(ingredidents):
                     st.markdown("- " + i)

@@ -1,0 +1,101 @@
+recipe_shrt_name,recipe_id,preparation_time,preparation_time_unit,cook_time,cook_time_unit,total_time,total_time_unit,cuisine,course,diet,difficulty_level,rating,nutrition,URL
+Aloo Chana Chaat,recid_aloo_chana_chaat,30,min,20,min,50,min,Indian,Snacks,Vegetarian,Moderate,4.6,Calories 120,https://www.vegrecipesofindia.com/aloo-chana-chaat-recipe/
+Badam Halwa,recid_badam_halwa,45,min,20,min,65,min,Indian,Desserts,"Gluten Free, Vegetarian",Moderate,4.93,Calories 467,https://www.vegrecipesofindia.com/almond-halwa-badam-halwa-recipe/
+Badam Kheer,recid_badam_kheer,30,min,20,min,50,min,Indian,Desserts,,,4.67,Calories 218,https://www.vegrecipesofindia.com/badam-kheer-recipe/
+Badam Laddoo,recid_badam_laddoo,1,min,9,min,10,min,North Indian,Sweets,,,4.64,Calories 106,https://www.vegrecipesofindia.com/badam-ladoo-recipe/
+Badam Milk,recid_badam_milk,35,min,5,min,40,min,"Mughlai, North Indian",Beverages,,,5,Calories 246,https://www.vegrecipesofindia.com/badam-milk-recipe/
+Baked Aloo Samosa,recid_baked_aloo_samosa,35,min,35,min,70,min,"North Indian, Punjabi",Snacks,,,4.89,Calories 114,https://www.vegrecipesofindia.com/baked-samosa-recipe/
+Black Chickpeas Chaat,recid_black_chickpeas_chaat,10,min,20,min,30,min,Indian,Snacks,"Gluten Free, Vegan",Easy,4.75,Calories 213,https://www.vegrecipesofindia.com/kala-chana-chaat/
+Butter Naan,recid_butter_naan,10,min,30,min,40,min,North Indian,Main Course,,,5,Calories 144,https://www.vegrecipesofindia.com/butter-naan-recipe-whole-wheat-butter-naan/
+Butter Rava Dosa,recid_butter_rava_dosa,5,min,25,min,30,min,South Indian,Breakfast,Vegan,Easy,4.94,Calories 102,https://www.vegrecipesofindia.com/instant-butter-rava-dosa-recipe/
+Cashew Pulao,recid_cashew_pulao,30,min,10,min,40,min,North Indian,Main Course,"Gluten Free, Vegetarian",Moderate,5,Calories 623,https://www.vegrecipesofindia.com/kaju-pulao-recipe-cashew-pulao/
+Chana Biryani,recid_chana_biryani,45,min,30,min,75,min,"Hyderabadi, South Indian",Main Course,Vegetarian,Moderate,4.88,Calories 662,https://www.vegrecipesofindia.com/chole-biryani-recipe-chana-biryani/
+Chana Pulao,recid_chana_pulao,20,min,30,min,50,min,North Indian,Main Course,Vegetarian,Moderate,,,https://www.vegrecipesofindia.com/chana-pulao/
+Chana Sundal,recid_chana_sundal,5,min,30,min,35,min,"South Indian, Tamil Nadu","Side Dish, Snacks",Vegan,Moderate,5,Calories 120,https://www.vegrecipesofindia.com/chana-sundal/
+Curd Rice,recid_curd_rice,15,min,5,min,20,min,"South Indian, Tamil Nadu","Main Course, Side Dish",,,4.98,Calories 230,https://www.vegrecipesofindia.com/curd-rice-how-to-make-curd-rice-thayir-sadam-bagala-bath/
+Dry Fruits Burfi,recid_dry_fruits_burfi,20,min,5,min,25,min,North Indian,Sweets,,,4.91,Calories 99,https://www.vegrecipesofindia.com/dry-fruit-barfi-recipe/
+Ghee Rice,recid_ghee_rice,30,min,20,min,50,min,South Indian,Main Course,"Gluten Free, Vegetarian",Easy,4.96,Calories 619,https://www.vegrecipesofindia.com/ghee-rice-recipe-rice-recipes/
+Gulgule,recid_gulgule,5,min,20,min,25,min,Punjabi,Breakfast,Vegan,Easy,5,Calories 255,https://www.vegrecipesofindia.com/gulgule-recipe/
+Hummus,recid_hummus,5,min,25,min,30,min,"Lebanese, World","Appetizers, Side Dish, Starters",Vegan,Easy,4.92,Calories 77,https://www.vegrecipesofindia.com/hummus-recipe/
+Instant Ragi Dosa,recid_instant_ragi_dosa,15,min,25,min,40,min,South Indian,Breakfast,"Gluten Free, Vegetarian",Easy,4.88,Calories 345,https://www.vegrecipesofindia.com/ragi-dosa/
+Instant Ragi Dosa,recid_instant_ragi_dosa,10,min,30,min,40,min,South Indian,Breakfast,Vegan,Moderate,4.88,Calories 345,https://www.vegrecipesofindia.com/ragi-dosa/
+Jaggery Rice,recid_jaggery_rice,30,min,10,min,40,min,Pakistani,Main Course,"Gluten Free, Vegan",Moderate,4.91,Calories 606,https://www.vegrecipesofindia.com/jaggery-rice-recipe-gur-walay-chawal/
+Jaggery Roti,recid_jaggery_roti,30,min,20,min,50,min,"North Indian, Punjabi","Snacks, Sweets",,,4.75,Calories 213,https://www.vegrecipesofindia.com/gur-ki-roti-recipe-jaggery-roti/
+Jammu Style Rajma Recipe,recid_jammu_style_rajma_recipe,10,min,45,min,55,min,Punjabi,Main Course,Vegetarian,Easy,4.89,Calories 210,https://www.vegrecipesofindia.com/rajma-masala-recipe-jammu-style/
+Jeera Rice,recid_jeera_rice,30,min,25,min,55,min,North Indian,Main Course,,,4.95,Calories 324,https://www.vegrecipesofindia.com/jeera-rice-recipe-cumin-rice/
+Kada Prashad,recid_kada_prashad,5,min,25,min,30,min,"North Indian, Punjabi","Desserts, Sweets",,,4.87,Calories 151,https://www.vegrecipesofindia.com/kada-prashad-recipe/
+Kadala Curry - Kerala Cuisine,recid_kadala_curry__kerala_cuisine,30,min,25,min,55,min,"Kerala, South Indian",Main Course,Vegetarian,Moderate,4.9,Calories 327,https://www.vegrecipesofindia.com/kadala-curry-recipe-kadala-kari/
+Kaju Curry,recid_kaju_curry,30,min,30,min,60,min,"North Indian, Punjabi",Main Course,Vegetarian,Moderate,4.85,Calories 336,https://www.vegrecipesofindia.com/kaju-butter-masala-recipe/
+Kaju Katli,recid_kaju_katli,5,min,15,min,20,min,Indian,"Desserts, Sweets","Gluten Free, Vegan, Vegetarian",Moderate,4.78,Calories 87,https://www.vegrecipesofindia.com/kaju-katli-recipe-kaju-katli/
+Kala Chana Ghugni - Bihari Cuisine,recid_kala_chana_ghugni__bihari_cuisine,10,min,20,min,30,min,Bihari,Main Course,"Gluten Free, Vegan",Moderate,5,Calories 260,https://www.vegrecipesofindia.com/kala-chana-ghugni-recipe/
+Kala Chana Sundal,recid_kala_chana_sundal,5,min,30,min,35,min,"South Indian, Tamil Nadu","Side Dish, Snacks",Vegan,Moderate,4.75,Calories 172,https://www.vegrecipesofindia.com/kala-chana-sundal-ganesh-chaturthi/
+Kala Chana Usal - Malvani Recipe,recid_kala_chana_usal__malvani_recipe,10,min,30,min,40,min,"North Indian, Punjabi",Main Course,"Vegan, Vegetarian",Moderate,4.92,,https://www.vegrecipesofindia.com/kala-chana-usal-or-black-chana-usal/
+Kesari bath,recid_kesari_bath,5,min,15,min,20,min,"Karnataka, South Indian",Sweets,,,4.88,Calories 876,https://www.vegrecipesofindia.com/kesari-bhath-recipe/
+Khasta Roti,recid_khasta_roti,25,min,20,min,45,min,North Indian,Main Course,,,,,https://www.vegrecipesofindia.com/khasta-roti-recipe/
+Kuska Rice (Plain Biryani),recid_kuska_rice_plain_biryani,30,min,15,min,45,min,South Indian,Main Course,,,4.86,Calories 481,https://www.vegrecipesofindia.com/kuska-biryani-recipe-kuska-rice/
+Masala Paratha,recid_masala_paratha,35,min,25,min,60,min,North Indian,"Breakfast, Main Course",Vegetarian,Moderate,5,Calories 164,https://www.vegrecipesofindia.com/masala-paratha-recipe/
+Masala Poori,recid_masala_poori,35,min,30,min,65,min,"Gujarati, Maharashtrian","Breakfast, Main Course, Snacks",Vegetarian,Moderate,4.5,Calories 92,
+Matar Pulao,recid_matar_pulao,10,min,15,min,25,min,"Indian, Punjabi",Main Course,"Gluten Free, Vegan, Vegetarian",Easy,4.96,Calories 364,https://www.vegrecipesofindia.com/matar-pulao-peas-pulao-recipe/
+Milk Kesari,recid_milk_kesari,15,min,15,min,30,min,South Indian,"Desserts, Sweets",,,4.67,Calories 598,https://www.vegrecipesofindia.com/milk-kesari-recipe/
+Mishti Doi,recid_mishti_doi,5,min,30,min,35,min,Bengali,"Desserts, Sweets",,,4.94,Calories 149,https://www.vegrecipesofindia.com/mishti-doi-recipe/
+Neer Dosa,recid_neer_dosa,10,min,30,min,40,min,"Karnataka, South Indian",Breakfast,"Gluten Free, Vegan",Moderate,4.82,Calories 55,https://www.vegrecipesofindia.com/neer-dosa-recipe/
+Ney Choru - Kerala Style Ghee Rice,recid_ney_choru__kerala_style_ghee_rice,15,min,25,min,40,min,"Kerala, South Indian",Main Course,"Gluten Free, Vegetarian",Easy,5,Calories 423,https://www.vegrecipesofindia.com/nei-choru-recipe-ney-choru/
+Nolen Gurer Payesh - Bengali Recipe,recid_nolen_gurer_payesh__bengali_recipe,20,min,40,min,60,min,Bengali,"Desserts, Sweets",,,5,Calories 339,https://www.vegrecipesofindia.com/nolen-gurer-payesh-recipe/
+Oatmeal Cookies,recid_oatmeal_cookies,5,min,25,min,30,min,"American, World","Desserts, Sweets",Vegetarian,Easy,4.93,Calories 109,https://www.vegrecipesofindia.com/oatmeal-cookies-recipe/
+Oats Chilla,recid_oats_chilla,10,min,20,min,30,min,North Indian,"Breakfast, Snacks",,,4.96,Calories 117,https://www.vegrecipesofindia.com/oats-chilla-recipe-oats-cheela/
+Oats Khichdi,recid_oats_khichdi,5,min,15,min,20,min,North Indian,Main Course,Vegetarian,Moderate,5,Calories 117,https://www.vegrecipesofindia.com/oats-khichdi-recipe/
+Oats Uttapam,recid_oats_uttapam,20,min,20,min,40,min,South Indian,"Breakfast, Snacks",,,4.86,,https://www.vegrecipesofindia.com/oats-uttapam-recipe/
+Oats kheer,recid_oats_kheer,5,min,10,min,15,min,North Indian,Desserts,,,5,Calories 547,https://www.vegrecipesofindia.com/oats-kheer-recipe/
+Oats porridge,recid_oats_porridge,1,min,5,min,6,min,"American, World",Breakfast,Vegetarian,Easy,4.6,Calories 157,https://www.vegrecipesofindia.com/oats-porridge-recipe/
+Onion Rava Dosa,recid_onion_rava_dosa,25,min,20,min,45,min,South Indian,Breakfast,"Vegan, Vegetarian",Easy,4.9,Calories 181,https://www.vegrecipesofindia.com/onion-rava-dosa-recipe-dosa-recipes/
+Paal Payasam,recid_paal_payasam,10,min,50,min,60,min,"South Indian, Tamil Nadu",Desserts,,,5,Calories 276,
+Panjiri,recid_panjiri,5,min,20,min,25,min,"North Indian, Punjabi",Sweets,,,4.96,Calories 711,https://www.vegrecipesofindia.com/panjiri-recipe/
+Parsi Brown Rice,recid_parsi_brown_rice,5,min,15,min,20,min,Parsi,Main Course,"Gluten Free, Vegetarian",Moderate,5,Calories 1289,https://www.vegrecipesofindia.com/parsi-brown-rice/
+Peanut Amti,recid_peanut_amti,15,min,10,min,25,min,"Indian, Maharashtrian",Side Dish,,,4.75,Calories 263,https://www.vegrecipesofindia.com/peanut-amti-peanut-curry-shengdanyachi-amti/
+Peanut Chutney,recid_peanut_chutney,5,min,15,min,20,min,Indian,Side Dish,"Diabetic, Vegan",Easy,4.8,Calories 186,https://www.vegrecipesofindia.com/peanut-chutney/
+Peanut Ladoo,recid_peanut_ladoo,5,min,10,min,15,min,Indian,Sweets,"Gluten Free, Vegan",Moderate,4.94,Calories 114,https://www.vegrecipesofindia.com/peanut-ladoo-recipe/
+Peanut Rice,recid_peanut_rice,25,min,5,min,30,min,"South Indian, Tamil Nadu",Main Course,,,5,Calories 360,https://www.vegrecipesofindia.com/peanut-rice-recipe/
+Peanut Thecha,recid_peanut_thecha,1,min,5,min,6,min,"Indian, Maharashtrian",Side Dish,,,5,Calories 90,https://www.vegrecipesofindia.com/peanut-thecha-recipe-shengdanayacha-thecha/
+Phirni,recid_phirni,5,min,25,min,30,min,"North Indian, Punjabi","Desserts, Sweets","Gluten Free, Vegetarian",Easy,4.96,Calories 172,https://www.vegrecipesofindia.com/phirni-recipe-punjabi-phirni-recipe/
+Pita Bread,recid_pita_bread,30,min,30,min,60,min,"Lebanese, World","Breakfast, Brunch",Vegan,Moderate,5,Calories 107,https://www.vegrecipesofindia.com/whole-wheat-pita-bread-best-pita-bread-recipe/
+Poori,recid_poori,10,min,30,min,40,min,Indian,Breakfast,"Vegan, Vegetarian",Moderate,4.8,Calories 90,https://www.vegrecipesofindia.com/poori-a-kind-of-fried-indian-bread/
+Potato Rice,recid_potato_rice,30,min,12,min,42,min,South Indian,Main Course,"Gluten Free, Vegan, Vegetarian",Moderate,4.75,Calories 564,https://www.vegrecipesofindia.com/potato-pulao-recipe-aloo-pulao-recipe/
+Punjabi Kala Chana Curry,recid_punjabi_kala_chana_curry,10,min,30,min,40,min,"North Indian, Punjabi",Main Course,"Vegan, Vegetarian",Moderate,4.96,Calories 245,https://www.vegrecipesofindia.com/kala-chana-curry-recipe/
+Punjabi Lobia Masala,recid_punjabi_lobia_masala,10,min,20,min,30,min,"North Indian, Punjabi",Main Course,Vegan,Moderate,4.88,Calories 125,https://www.vegrecipesofindia.com/lobia-recipe-punjabi-lobia/
+Ragi Dosa,recid_ragi_dosa,15,min,25,min,40,min,South Indian,Breakfast,"Gluten Free, Vegetarian",Easy,4.88,Calories 345,https://www.vegrecipesofindia.com/ragi-dosa-recipe/
+Ragi Dosa,recid_ragi_dosa,10,min,30,min,40,min,South Indian,Breakfast,Vegan,Moderate,4.88,Calories 345,https://www.vegrecipesofindia.com/ragi-dosa-recipe/
+Ragi Halwa,recid_ragi_halwa,5,min,15,min,20,min,Indian,Desserts,Vegetarian,Moderate,4.91,Calories 568,https://www.vegrecipesofindia.com/ragi-halwa-recipe/
+Ragi Idli,recid_ragi_idli,10,min,30,min,40,min,South Indian,Breakfast,,,4.88,Calories 469,https://www.vegrecipesofindia.com/ragi-idli-recipe/
+Ragi Kheer,recid_ragi_kheer,10,min,10,min,20,min,Indian,"Desserts, Sweets","Gluten Free, Vegetarian",Moderate,4.78,Calories 224,https://www.vegrecipesofindia.com/ragi-kheer-recipe-nachni-kheer/
+Ragi Ladoo,recid_ragi_ladoo,1,min,14,min,15,min,Indian,Sweets,,,4.89,Calories 171,https://www.vegrecipesofindia.com/ragi-ladoo-recipe/
+Ragi Malt,recid_ragi_malt,2,min,13,min,15,min,"Karnataka, South Indian",Breakfast,,,5,Calories 256,https://www.vegrecipesofindia.com/ragi-malt/
+Rajma Madra - Himachali Cuisine,recid_rajma_madra__himachali_cuisine,20,min,20,min,40,min,"Himachali, North Indian",Main Course,,,5,Calories 259,https://www.vegrecipesofindia.com/rajma-madra-recipe/
+Rajma Masala Restaurant Style,recid_rajma_masala_restaurant_style,10,min,45,min,55,min,Punjabi,Main Course,Vegetarian,Easy,4.89,Calories 210,https://www.vegrecipesofindia.com/rajma-masala-recipe-restaurant-style/
+Rajma Pulao,recid_rajma_pulao,10,min,35,min,45,min,North Indian,Main Course,"Vegan, Vegetarian",Moderate,4.78,Calories 742,https://www.vegrecipesofindia.com/rajma-pulao-recipe/
+Rajma Sundal,recid_rajma_sundal,5,min,30,min,35,min,South Indian,Snacks,Vegan,Moderate,5,Calories 214,https://www.vegrecipesofindia.com/rajma-sundal/
+Rava Chilla,recid_rava_chilla,30,min,20,min,50,min,North Indian,"Breakfast, Snacks",,,5,Calories 907,https://www.vegrecipesofindia.com/rava-chilla-recipe-sooji-chilla/
+Rava Dhokla,recid_rava_dhokla,15,min,20,min,35,min,Gujarati,Snacks,"Vegan, Vegetarian",Moderate,4.97,Calories 196,https://www.vegrecipesofindia.com/rava-dhokla-instant-rava-dhokla/
+Rava Dosa,recid_rava_dosa,5,min,25,min,30,min,South Indian,Breakfast,Vegan,Easy,4.94,Calories 102,https://www.vegrecipesofindia.com/rava-dosa-crisp-rava-dosa/
+Rava Idli,recid_rava_idli,35,min,12,min,47,min,South Indian,"Breakfast, Brunch",Vegetarian,Easy,4.86,Calories 104,https://www.vegrecipesofindia.com/rava-idli-recipe-quick-rava-idli/
+Rava Kesari,recid_rava_kesari,10,min,15,min,25,min,"South Indian, Tamil Nadu","Desserts, Sweets",Vegetarian,Moderate,4.87,Calories 349,https://www.vegrecipesofindia.com/rava-kesari-recipe/
+Rava Kichadi,recid_rava_kichadi,5,min,15,min,20,min,South Indian,Breakfast,Vegetarian,Easy,4.9,Calories 260,https://www.vegrecipesofindia.com/rava-kichadi-recipe/
+Rava Ladoo,recid_rava_ladoo,5,min,25,min,30,min,"Indian, Maharashtrian","Desserts, Sweets",Vegetarian,Moderate,4.92,Calories 154,https://www.vegrecipesofindia.com/rava-ladoo-recipe-ladoo-recipes/
+Rava Pongal,recid_rava_pongal,15,min,15,min,30,min,South Indian,Breakfast,,,5,Calories 456,https://www.vegrecipesofindia.com/rava-pongal-recipe/
+Rava Upma,recid_rava_upma,15,min,15,min,30,min,"Indian, South Indian","Breakfast, Brunch",Vegetarian,Easy,4.88,Calories 360,https://www.vegrecipesofindia.com/upma-savoury-south-indian-breakfast-recipe-made-with-semolina/
+Rava Uttapam,recid_rava_uttapam,30,min,15,min,45,min,Indian,Snacks,Vegan,Easy,,,https://www.vegrecipesofindia.com/rava-uttapam-recipe-sooji-uttapam/
+Rice Kheer,recid_rice_kheer,20,min,30,min,50,min,North Indian,"Desserts, Sweets","Gluten Free, Vegetarian",Easy,4.85,Calories 140,https://www.vegrecipesofindia.com/rice-kheer-recipe-chawal-ki-kheer/
+Rice Pudding,recid_rice_pudding,20,min,30,min,50,min,North Indian,"Desserts, Sweets","Gluten Free, Vegetarian",Easy,4.85,Calories 140,https://www.vegrecipesofindia.com/leftover-rice-pudding-kheer/
+Roti (Phulka),recid_roti_phulka,10,min,30,min,40,min,Indian,Main Course,"Vegan, Vegetarian",Moderate,4.94,Calories 90,https://www.vegrecipesofindia.com/rotis-made-from-whole-wheat-flour/
+Saffron Rice,recid_saffron_rice,30,min,10,min,40,min,Indian,Main Course,"Gluten Free, Vegetarian",Easy,5,Calories 481,https://www.vegrecipesofindia.com/saffron-rice-or-kesar-rice/
+Sooji Halwa,recid_sooji_halwa,1,min,14,min,15,min,"Maharashtrian, North Indian",Sweets,Vegetarian,Easy,4.91,Calories 344,https://www.vegrecipesofindia.com/sooji-halwa-recipe-rava-sheera/
+Sooji Kheer,recid_sooji_kheer,2,min,18,min,20,min,North Indian,"Desserts, Sweets",Vegetarian,Easy,4.72,Calories 282,https://www.vegrecipesofindia.com/sooji-kheer-recipe-rava-kheer-recipe/
+Sugar Paratha,recid_sugar_paratha,30,min,30,min,60,min,North Indian,Breakfast,Vegetarian,Moderate,4.8,Calories 217,https://www.vegrecipesofindia.com/sugar-paratha-sweet-paratha/
+Sweet Pongal,recid_sweet_pongal,5,min,15,min,20,min,"South Indian, Tamil Nadu",Sweets,"Gluten Free, Vegetarian",Easy,4.84,Calories 412,https://www.vegrecipesofindia.com/sweet-pongal-recipe-sakkarai-pongal-recipe/
+Tamarind Rice,recid_tamarind_rice,30,min,30,min,60,min,"South Indian, Tamil Nadu",Main Course,,,4.9,Calories 555,https://www.vegrecipesofindia.com/tamarind-rice-recipe/
+Tandoori Roti,recid_tandoori_roti,10,min,30,min,40,min,"North Indian, Punjabi",Main Course,Vegetarian,Moderate,,,https://www.vegrecipesofindia.com/tandoori-roti-recipe/
+Ven Pongal,recid_ven_pongal,5,min,20,min,25,min,"South Indian, Tamil Nadu",Breakfast,Vegetarian,Easy,4.95,Calories 285,https://www.vegrecipesofindia.com/ven-pongal-recipe-khara-pongal-recipe/
+Wheat Halwa,recid_wheat_halwa,5,min,10,min,15,min,North Indian,"Desserts, Sweets",,,4.91,Calories 495,https://www.vegrecipesofindia.com/atte-ka-halwa-recipe/
+Wheat Ladoo,recid_wheat_ladoo,5,min,10,min,15,min,"North Indian, Punjabi",Sweets,Vegetarian,Moderate,4.88,Calories 474,https://www.vegrecipesofindia.com/atta-ladoo-recipe/
+Wheat Nankhatai,recid_wheat_nankhatai,15,min,25,min,40,min,North Indian,"Desserts, Snacks",,,4.82,Calories 198,https://www.vegrecipesofindia.com/whole-wheat-nankhatai-recipe-atta-nankhatai/
+Wheat Nankhatai,recid_wheat_nankhatai,5,min,25,min,30,min,North Indian,Snacks,,,,,https://www.vegrecipesofindia.com/whole-wheat-nankhatai-recipe-atta-nankhatai/
+White Chickpeas Chaat,recid_white_chickpeas_chaat,5,min,20,min,25,min,Indian,Snacks,"Vegan, Vegetarian",Moderate,,,https://www.vegrecipesofindia.com/chana-chaat-recipe-chana-chaat/

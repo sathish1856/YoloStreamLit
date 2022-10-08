@@ -7,6 +7,7 @@ import os
 import sys
 import argparse
 from PIL import Image
+import pandas as pd
 
 
 def get_subdirs(b='.'):
@@ -116,10 +117,10 @@ if __name__ == '__main__':
     source_index = st.sidebar.selectbox("Select File Type", range(
         len(source)), format_func=lambda x: source[x])
     
-    preference = ("Time", "Calorie", "rating")
+    preference = ("Time", "Calorie", "Rating")
     preference_index = st.sidebar.selectbox("Select Preference", range(
         len(preference)), format_func=lambda x: preference[x])
-
+    prefdict = { "Time": "total_time", "Calorie": "nutrition","Rating": "rating" }
     if source_index == 0:
         uploaded_file = st.sidebar.file_uploader(
             "Photo", type=['png', 'jpeg', 'jpg'])
@@ -184,3 +185,7 @@ if __name__ == '__main__':
                 st.subheader('Ingredients Predicted')
                 for i in set(ingredidents):
                     st.markdown("- " + i)
+                st.subheader('Recipies Recommended' + '( Based on ' + preference[preference_index] + ' )')
+                data = pd.read_csv("data/100_Recipes.csv") #path folder of the data file
+                df = data.sort_values(prefdict[preference[preference_index]],ascending=True)
+                st.write(df) #displays the table of data

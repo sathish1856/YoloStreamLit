@@ -113,8 +113,12 @@ if __name__ == '__main__':
         print('when ', opt)
  
     source = ("Photo", "Video")
-    source_index = st.sidebar.selectbox("Select Input", range(
+    source_index = st.sidebar.selectbox("Select File Type", range(
         len(source)), format_func=lambda x: source[x])
+    
+    preference = ("Time", "Calorie", "rating")
+    preference_index = st.sidebar.selectbox("Select Preference", range(
+        len(preference)), format_func=lambda x: preference[x])
 
     if source_index == 0:
         uploaded_file = st.sidebar.file_uploader(
